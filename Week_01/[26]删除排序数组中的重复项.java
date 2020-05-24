@@ -44,7 +44,7 @@ package com.test.leetcode.editor.cn;//给定一个排序数组，你需要在 �
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution26 {
     //双指针
     //时间复杂度：n
     //空间复杂度：1
